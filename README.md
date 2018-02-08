@@ -25,13 +25,19 @@ Tools and Dependencies
 Node.js - Liri runs on node.js as you can see from the input commands, so you need to have node.js installed on your computer.
 
 Twitter - Liri utilizes the Twitter npm and API, so you need keys to access Twitter’s API and you need to ‘npm install twitter’ in the directory which holds liri.js application.
+https://www.npmjs.com/package/twitter
+https://developer.twitter.com/en/docs
 
 Spotify-  Liri utilizes the Spotify npm and API, so you need keys to access Spotify’s API and you need to ‘npm install spotify’ in the directory which holds liri.js application.
+https://www.npmjs.com/package/spotify
+https://developer.spotify.com/web-api/
 
+OMDB - You'll need keys to the OMDB API.
+http://www.omdbapi.com/
 
-
-
-
+NPM's - other packages utilized are '<request>' and '<dotenv>'
+https://www.npmjs.com/package/request
+https://www.npmjs.com/package/dotenv
 
 No copyright
 The person who associated a work with this deed has dedicated the work to the public domain by waiving all rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
