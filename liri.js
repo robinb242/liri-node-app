@@ -107,7 +107,7 @@ function omdbThis(value) {
         }
 
 
-//usinng the fs node package Liri will take the text inside of random.txt and use it to 
+//using the fs node package Liri will take the text inside of random.txt and use it to 
 //call one of Liri's commands
 //"do-what-it-says"
 function doWhatItSays() {
